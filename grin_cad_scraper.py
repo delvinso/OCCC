@@ -1,6 +1,9 @@
 # Canadian GRIN Database Scraper
 # By: Delvin So
 
+# TODO - check if singly returned accessions are wheat
+
+
 # Given a .csv of variety names, the program will query each variety against the GRIN database and return the accession number and URL to the console
 # Additionally, a .csv will be created with the first column being the variety name and subsequent columns corresponding to the accession number and URL
 
